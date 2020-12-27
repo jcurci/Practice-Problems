@@ -10,6 +10,8 @@ You may assume all the characters consist of printable ascii characters.
 
 
 //Solution:
+#include <iostream>
+using namespace std;
 
 class Solution {
 public:
